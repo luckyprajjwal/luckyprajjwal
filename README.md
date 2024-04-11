@@ -1,3 +1,3 @@
 - Hi, I’m Lucky Prajjwal Shrestha.
-- I am an Electronics and communication Engineering student currently learning some coding skills.
-- I’m quite interested in how things work the way they do.So, let's roll then.
+- I am an Electronics, Communication, and Information Engineer currently learning some coding skills.
+- I’m interested in how things work the way they do. So, let's roll then.
